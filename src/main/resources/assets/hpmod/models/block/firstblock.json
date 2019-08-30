@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures" : {
+    "particles": "hpmod:block/firstblock",
+    "north": "hpmod:block/firstblock_front",
+    "south": "hpmod:block/firstblock",
+    "west": "hpmod:block/firstblock",
+    "east": "hpmod:block/firstblock",
+    "up": "hpmod:block/firstblock",
+    "down": "hpmod:block/firstblock"
+  }
+}

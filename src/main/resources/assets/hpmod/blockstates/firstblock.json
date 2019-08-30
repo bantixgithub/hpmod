@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=north": { "model": "hpmod:block/firstblock" },
+    "facing=south": { "model": "hpmod:block/firstblock", "y": 180 },
+    "facing=west": { "model": "hpmod:block/firstblock", "y": 270 },
+    "facing=east": { "model": "hpmod:block/firstblock", "y": 90 },
+    "facing=up": { "model": "hpmod:block/firstblock", "x": -90 },
+    "facing=down": { "model": "hpmod:block/firstblock", "x": 90 }
+  }
+}
